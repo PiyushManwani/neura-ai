@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Config (user-specific, shouldn't be in repo)
+config.json
+
+# Editors
+.vscode/
+.idea/
