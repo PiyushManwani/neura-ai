@@ -194,7 +194,7 @@ MIT — Do whatever you want with it!
 
 
 
-Made by \*\*\[Piyush Manwani](https://github.com/PiyushManwani)\*\*
+Made by \*\*\[Piyush Manwani]
 
 
 
