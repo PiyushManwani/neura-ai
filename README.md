@@ -2,7 +2,6 @@
 
 A beautiful terminal-based AI assistant powered by Ollama. Chat with your own custom AI model that runs **100% locally** on your PC.
 
-![Banner](https://via.placeholder.com/800x200?text=Neura+AI+Screenshot)
 
 ## ✨ Features
 
